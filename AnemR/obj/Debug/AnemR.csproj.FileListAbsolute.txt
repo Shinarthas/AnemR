@@ -1,0 +1,9 @@
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\bin\Debug\AnemR.exe.config
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\bin\Debug\AnemR.exe
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\bin\Debug\AnemR.pdb
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.csprojResolveAssemblyReference.cache
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.Form1.resources
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.Properties.Resources.resources
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.csproj.GenerateResource.Cache
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.exe
+c:\users\danila\documents\visual studio 2012\Projects\AnemR\AnemR\obj\Debug\AnemR.pdb
